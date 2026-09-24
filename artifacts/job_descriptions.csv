@@ -1,0 +1,521 @@
+jd_id,title,role,text
+J001,Data Scientist,Data Scientist,"Bluepeak Systems is hiring a Data Scientist (Coimbatore).
+
+About the role
+You will build predictive models, run experiments and turn messy data into decisions for business teams.
+
+Required
+- 2-5 years of experience
+- Master's degree in Computer Science, Statistics or a related field
+- Hands-on experience with Ml models, feature engineering, Statistical modelling, Python
+
+Nice to have
+- Exposure to natural language processing, pandas, Git
+"
+J002,Junior Data Scientist,Data Scientist,"Brightwave Solutions is hiring a Junior Data Scientist (Hyderabad).
+
+About the role
+You will build predictive models, run experiments and turn messy data into decisions for business teams.
+
+Required
+- 0-2 years of experience (freshers welcome)
+- Bachelor's degree in Computer Science or a related field (Master's preferred)
+- Hands-on experience with a/b tests, numpy, SQL, statistical modeling, ml models, Feature engineering
+
+Nice to have
+- Exposure to neural networks, git, tableau
+"
+J003,Senior Data Scientist,Data Scientist,"Northwind Labs is hiring a Senior Data Scientist (Pune).
+
+About the role
+You will build predictive models, run experiments and turn messy data into decisions for business teams.
+
+Required
+- 6-10 years of experience
+- Bachelor's degree in Computer Science or a related field
+- Hands-on experience with python, A/b tests, numpy, SQL
+
+Nice to have
+- Exposure to feature engineering, tableau, Pandas
+"
+J004,Senior Data Scientist,Data Scientist,"Northwind Labs is hiring a Senior Data Scientist (Pune).
+
+About the role
+You will build predictive models, run experiments and turn messy data into decisions for business teams.
+
+Required
+- 6-10 years of experience
+- Bachelor's degree in Computer Science or a related field
+- Hands-on experience with numpy, python, Pandas, ab testing, Feature engineering, scikit-learn
+
+Nice to have
+- Exposure to SQL, deep learning
+"
+J005,Data Scientist,Data Scientist,"Quanta Works is hiring a Data Scientist (Hyderabad).
+
+About the role
+You will build predictive models, run experiments and turn messy data into decisions for business teams.
+
+Required
+- 3-6 years of experience
+- Master's degree in Computer Science, Statistics or a related field
+- Hands-on experience with Machine learning, a/b tests, numpy, Scikit learn
+
+Nice to have
+- Exposure to SQL, Nlp, Python
+"
+J006,ML Engineer,ML Engineer,"Pinecrest Technologies is hiring a ML Engineer (Chennai).
+
+About the role
+You will take models from notebooks to production, owning training, deployment and monitoring.
+
+Required
+- 3-6 years of experience
+- Bachelor's degree in Computer Science or a related field
+- Hands-on experience with docker, Pytorch, Neural networks, AWS
+
+Nice to have
+- Exposure to faiss, Spark, git
+"
+J007,Junior ML Engineer,ML Engineer,"Vertex Ninety is hiring a Junior ML Engineer (Delhi NCR).
+
+About the role
+You will take models from notebooks to production, owning training, deployment and monitoring.
+
+Required
+- 0-2 years of experience (freshers welcome)
+- Bachelor's degree in Computer Science or a related field
+- Hands-on experience with mlflow, Scikit learn, Ml models, python, pytorch
+
+Nice to have
+- Exposure to spark, Git
+"
+J008,Senior ML Engineer,ML Engineer,"Helix Softworks is hiring a Senior ML Engineer (Bengaluru).
+
+About the role
+You will take models from notebooks to production, owning training, deployment and monitoring.
+
+Required
+- 6-10 years of experience
+- Master's degree in Computer Science, Statistics or a related field
+- Hands-on experience with git, machine learning, Mlflow, pytorch
+
+Nice to have
+- Exposure to Scikit learn, Pyspark, K8s
+"
+J009,Senior ML Engineer,ML Engineer,"Bluepeak Systems is hiring a Senior ML Engineer (Pune).
+
+About the role
+You will take models from notebooks to production, owning training, deployment and monitoring.
+
+Required
+- 6-10 years of experience
+- Bachelor's degree in Computer Science or a related field
+- Hands-on experience with Amazon web services, Deep learning, ml models, Sklearn, Pytorch, python
+
+Nice to have
+- Exposure to Tensorflow, Fastapi
+"
+J010,ML Engineer,ML Engineer,"Maple & Finch Tech is hiring a ML Engineer (Coimbatore).
+
+About the role
+You will take models from notebooks to production, owning training, deployment and monitoring.
+
+Required
+- 3-6 years of experience
+- Bachelor's degree in Computer Science or a related field (Master's preferred)
+- Hands-on experience with scikit learn, mlflow, AWS, Pytorch
+
+Nice to have
+- Exposure to deep learning, Transformers
+"
+J011,NLP Engineer,NLP Engineer,"Kestrel Digital is hiring a NLP Engineer (Bengaluru).
+
+About the role
+You will build language understanding systems: text classification, search, extraction and generation.
+
+Required
+- 3-6 years of experience
+- Bachelor's degree in Computer Science or a related field (Master's preferred)
+- Hands-on experience with Spacy, nlp, Faiss, transformers
+
+Nice to have
+- Exposure to Python, Pytorch, Ml models
+"
+J012,Junior NLP Engineer,NLP Engineer,"Kestrel Digital is hiring a Junior NLP Engineer (Chennai).
+
+About the role
+You will build language understanding systems: text classification, search, extraction and generation.
+
+Required
+- 0-2 years of experience (freshers welcome)
+- Master's degree in Computer Science, Statistics or a related field
+- Hands-on experience with NLP, llms, Faiss, python
+
+Nice to have
+- Exposure to amazon web services, docker, deep learning
+"
+J013,Senior NLP Engineer,NLP Engineer,"Helix Softworks is hiring a Senior NLP Engineer (Chennai).
+
+About the role
+You will build language understanding systems: text classification, search, extraction and generation.
+
+Required
+- 6-10 years of experience
+- Master's degree in Computer Science, Statistics or a related field
+- Hands-on experience with Hugging face, Pytorch, spacy, large language models, Python
+
+Nice to have
+- Exposure to deep learning, amazon web services
+"
+J014,Senior NLP Engineer,NLP Engineer,"Northwind Labs is hiring a Senior NLP Engineer (Mumbai).
+
+About the role
+You will build language understanding systems: text classification, search, extraction and generation.
+
+Required
+- 5-9 years of experience
+- Bachelor's degree in Computer Science or a related field
+- Hands-on experience with hugging face, python, Ml models, natural language processing
+
+Nice to have
+- Exposure to neural networks, spacy
+"
+J015,NLP Engineer,NLP Engineer,"Pinecrest Technologies is hiring a NLP Engineer (Pune).
+
+About the role
+You will build language understanding systems: text classification, search, extraction and generation.
+
+Required
+- 2-5 years of experience
+- Bachelor's degree in Computer Science or a related field (Master's preferred)
+- Hands-on experience with Pytorch, Python, Huggingface, Machine learning, spacy, LLM
+
+Nice to have
+- Exposure to git, fastapi, AWS
+"
+J016,Data Engineer,Data Engineer,"Kestrel Digital is hiring a Data Engineer (Pune).
+
+About the role
+You will design reliable data platforms that move, clean and model data for analytics teams.
+
+Required
+- 2-5 years of experience
+- Bachelor's degree in Computer Science or a related field
+- Hands-on experience with SQL, Kafka, amazon web services, Pyspark, airflow, snowflake
+
+Nice to have
+- Exposure to Dbt, git
+"
+J017,Junior Data Engineer,Data Engineer,"Lumen Analytics is hiring a Junior Data Engineer (Hyderabad).
+
+About the role
+You will design reliable data platforms that move, clean and model data for analytics teams.
+
+Required
+- 0-2 years of experience (freshers welcome)
+- Bachelor's degree in Computer Science or a related field (Master's preferred)
+- Hands-on experience with spark, SQL, aws, Snowflake
+
+Nice to have
+- Exposure to K8s, git
+"
+J018,Senior Data Engineer,Data Engineer,"Maple & Finch Tech is hiring a Senior Data Engineer (Hyderabad).
+
+About the role
+You will design reliable data platforms that move, clean and model data for analytics teams.
+
+Required
+- 5-9 years of experience
+- Bachelor's degree in Computer Science or a related field
+- Hands-on experience with ETL, SQL, Python, airflow, DBT, kafka
+
+Nice to have
+- Exposure to Gcp, Git, docker
+"
+J019,Senior Data Engineer,Data Engineer,"Brightwave Solutions is hiring a Senior Data Engineer (Bengaluru).
+
+About the role
+You will design reliable data platforms that move, clean and model data for analytics teams.
+
+Required
+- 5-9 years of experience
+- Bachelor's degree in Computer Science or a related field
+- Hands-on experience with Airflow, python, amazon web services, kafka, Etl, Dbt
+
+Nice to have
+- Exposure to Linux, pyspark
+"
+J020,Data Engineer,Data Engineer,"Brightwave Solutions is hiring a Data Engineer (Coimbatore).
+
+About the role
+You will design reliable data platforms that move, clean and model data for analytics teams.
+
+Required
+- 3-6 years of experience
+- Master's degree in Computer Science, Statistics or a related field
+- Hands-on experience with SQL, AWS, ETL, dbt
+
+Nice to have
+- Exposure to git, k8s, Python
+"
+J021,Backend Developer,Backend Developer,"Helix Softworks is hiring a Backend Developer (Delhi NCR).
+
+About the role
+You will build scalable server-side services and APIs that power our customer-facing products.
+
+Required
+- 2-5 years of experience
+- Bachelor's degree in Computer Science or a related field
+- Hands-on experience with java, redis, Git, docker, restful apis, spring boot
+
+Nice to have
+- Exposure to microservices, Mysql, Kafka
+"
+J022,Junior Backend Developer,Backend Developer,"Maple & Finch Tech is hiring a Junior Backend Developer (Chennai).
+
+About the role
+You will build scalable server-side services and APIs that power our customer-facing products.
+
+Required
+- 0-2 years of experience (freshers welcome)
+- Bachelor's degree in Computer Science or a related field
+- Hands-on experience with Restful apis, springboot, Java, redis, Microservices
+
+Nice to have
+- Exposure to git, Fastapi, postgres
+"
+J023,Senior Backend Developer,Backend Developer,"Cobalt Data Co is hiring a Senior Backend Developer (Delhi NCR).
+
+About the role
+You will build scalable server-side services and APIs that power our customer-facing products.
+
+Required
+- 6-10 years of experience
+- Bachelor's degree in Computer Science or a related field (Master's preferred)
+- Hands-on experience with rest api, Redis, Spring boot, git
+
+Nice to have
+- Exposure to kafka, docker
+"
+J024,Senior Backend Developer,Backend Developer,"Maple & Finch Tech is hiring a Senior Backend Developer (Chennai).
+
+About the role
+You will build scalable server-side services and APIs that power our customer-facing products.
+
+Required
+- 5-9 years of experience
+- Bachelor's degree in Computer Science or a related field
+- Hands-on experience with microservices, Docker, redis, git
+
+Nice to have
+- Exposure to mongodb, amazon web services
+"
+J025,Backend Developer,Backend Developer,"Orbit Cloudworks is hiring a Backend Developer (Delhi NCR).
+
+About the role
+You will build scalable server-side services and APIs that power our customer-facing products.
+
+Required
+- 3-6 years of experience
+- Bachelor's degree in Computer Science or a related field
+- Hands-on experience with Git, rest api, Microservices, springboot
+
+Nice to have
+- Exposure to redis, postgres
+"
+J026,Frontend Developer,Frontend Developer,"Pinecrest Technologies is hiring a Frontend Developer (Mumbai).
+
+About the role
+You will craft fast, accessible user interfaces and work closely with designers and API teams.
+
+Required
+- 2-5 years of experience
+- Master's degree in Computer Science, Statistics or a related field
+- Hands-on experience with nodejs, react, Rest apis, css
+
+Nice to have
+- Exposure to mongodb, python, Typescript
+"
+J027,Junior Frontend Developer,Frontend Developer,"Bluepeak Systems is hiring a Junior Frontend Developer (Pune).
+
+About the role
+You will craft fast, accessible user interfaces and work closely with designers and API teams.
+
+Required
+- 0-2 years of experience (freshers welcome)
+- Bachelor's degree in Computer Science or a related field
+- Hands-on experience with nodejs, rest api, git, typescript, CSS3
+
+Nice to have
+- Exposure to mongodb, python
+"
+J028,Senior Frontend Developer,Frontend Developer,"Vertex Ninety is hiring a Senior Frontend Developer (Hyderabad).
+
+About the role
+You will craft fast, accessible user interfaces and work closely with designers and API teams.
+
+Required
+- 5-9 years of experience
+- Bachelor's degree in Computer Science or a related field
+- Hands-on experience with Git, Typescript, Node.js, reactjs
+
+Nice to have
+- Exposure to rest api, python
+"
+J029,Senior Frontend Developer,Frontend Developer,"Helix Softworks is hiring a Senior Frontend Developer (Chennai).
+
+About the role
+You will craft fast, accessible user interfaces and work closely with designers and API teams.
+
+Required
+- 5-9 years of experience
+- Master's degree in Computer Science, Statistics or a related field
+- Hands-on experience with node.js, Javascript, typescript, restful apis, CSS3
+
+Nice to have
+- Exposure to AWS, python
+"
+J030,Frontend Developer,Frontend Developer,"Orbit Cloudworks is hiring a Frontend Developer (Bengaluru).
+
+About the role
+You will craft fast, accessible user interfaces and work closely with designers and API teams.
+
+Required
+- 3-6 years of experience
+- Bachelor's degree in Computer Science or a related field (Master's preferred)
+- Hands-on experience with nodejs, react.js, javascript, git, rest apis, CSS3
+
+Nice to have
+- Exposure to Typescript, CI/CD
+"
+J031,DevOps Engineer,DevOps Engineer,"Helix Softworks is hiring a DevOps Engineer (Chennai).
+
+About the role
+You will own infrastructure, release automation and reliability for a fast-moving engineering org.
+
+Required
+- 2-5 years of experience
+- Master's degree in Computer Science, Statistics or a related field
+- Hands-on experience with prometheus, CI/CD, Jenkins, linux
+
+Nice to have
+- Exposure to AWS, k8s
+"
+J032,Junior DevOps Engineer,DevOps Engineer,"Cobalt Data Co is hiring a Junior DevOps Engineer (Coimbatore).
+
+About the role
+You will own infrastructure, release automation and reliability for a fast-moving engineering org.
+
+Required
+- 0-2 years of experience (freshers welcome)
+- Master's degree in Computer Science, Statistics or a related field
+- Hands-on experience with terraform, Docker, ci-cd, Linux, K8s
+
+Nice to have
+- Exposure to Prometheus, azure, jenkins
+"
+J033,Senior DevOps Engineer,DevOps Engineer,"Bluepeak Systems is hiring a Senior DevOps Engineer (Bengaluru).
+
+About the role
+You will own infrastructure, release automation and reliability for a fast-moving engineering org.
+
+Required
+- 5-9 years of experience
+- Master's degree in Computer Science, Statistics or a related field
+- Hands-on experience with Ci-cd, Kubernetes, docker, jenkins
+
+Nice to have
+- Exposure to git, Azure
+"
+J034,Senior DevOps Engineer,DevOps Engineer,"Bluepeak Systems is hiring a Senior DevOps Engineer (Delhi NCR).
+
+About the role
+You will own infrastructure, release automation and reliability for a fast-moving engineering org.
+
+Required
+- 6-10 years of experience
+- Bachelor's degree in Computer Science or a related field
+- Hands-on experience with Grafana, Linux, kubernetes, CICD
+
+Nice to have
+- Exposure to Terraform, azure, jenkins
+"
+J035,DevOps Engineer,DevOps Engineer,"Orbit Cloudworks is hiring a DevOps Engineer (Bengaluru).
+
+About the role
+You will own infrastructure, release automation and reliability for a fast-moving engineering org.
+
+Required
+- 3-6 years of experience
+- Master's degree in Computer Science, Statistics or a related field
+- Hands-on experience with Grafana, Amazon web services, kubernetes, CICD, prometheus, linux
+
+Nice to have
+- Exposure to google cloud, python
+"
+J036,Data Analyst,Data Analyst,"Maple & Finch Tech is hiring a Data Analyst (Delhi NCR).
+
+About the role
+You will answer business questions with data, build dashboards and communicate insights to stakeholders.
+
+Required
+- 3-6 years of experience
+- Master's degree in Computer Science, Statistics or a related field
+- Hands-on experience with python, pandas, SQL, Tableau, powerbi
+
+Nice to have
+- Exposure to mysql, a/b testing, statistical modelling
+"
+J037,Junior Data Analyst,Data Analyst,"Pinecrest Technologies is hiring a Junior Data Analyst (Coimbatore).
+
+About the role
+You will answer business questions with data, build dashboards and communicate insights to stakeholders.
+
+Required
+- 0-2 years of experience (freshers welcome)
+- Bachelor's degree in Computer Science or a related field
+- Hands-on experience with Excel, sql, Tableau, pandas
+
+Nice to have
+- Exposure to snowflake, Git, A/b testing
+"
+J038,Senior Data Analyst,Data Analyst,"Kestrel Digital is hiring a Senior Data Analyst (Chennai).
+
+About the role
+You will answer business questions with data, build dashboards and communicate insights to stakeholders.
+
+Required
+- 5-9 years of experience
+- Bachelor's degree in Computer Science or a related field (Master's preferred)
+- Hands-on experience with power bi, statistical modeling, python, Excel, pandas, SQL
+
+Nice to have
+- Exposure to numpy, Git
+"
+J039,Senior Data Analyst,Data Analyst,"Maple & Finch Tech is hiring a Senior Data Analyst (Hyderabad).
+
+About the role
+You will answer business questions with data, build dashboards and communicate insights to stakeholders.
+
+Required
+- 5-9 years of experience
+- Master's degree in Computer Science, Statistics or a related field
+- Hands-on experience with SQL, pandas, excel, Statistical modeling
+
+Nice to have
+- Exposure to Git, powerbi
+"
+J040,Data Analyst,Data Analyst,"Quanta Works is hiring a Data Analyst (Pune).
+
+About the role
+You will answer business questions with data, build dashboards and communicate insights to stakeholders.
+
+Required
+- 2-5 years of experience
+- Bachelor's degree in Computer Science or a related field
+- Hands-on experience with power bi, excel, tableau, python, Statistical modelling, SQL
+
+Nice to have
+- Exposure to a/b testing, Snowflake
+"

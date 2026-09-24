@@ -1,0 +1,36 @@
+{
+  "embedder": "all-MiniLM-L6-v2",
+  "features": [
+    "sem_sim",
+    "sem_z",
+    "req_cov",
+    "pref_cov",
+    "n_missing_req",
+    "exp_fit",
+    "years",
+    "edu_gap",
+    "n_skills"
+  ],
+  "top_k": 100,
+  "ref_year": 2025,
+  "metrics": {
+    "Semantic search alone": {
+      "P@5": 0.5625,
+      "NDCG@5": 0.3918,
+      "P@10": 0.5375,
+      "NDCG@10": 0.4048
+    },
+    "Semantic + re-ranker": {
+      "P@5": 0.9875,
+      "NDCG@5": 0.8221,
+      "P@10": 0.975,
+      "NDCG@10": 0.8233
+    },
+    "Change": {
+      "P@5": 0.425,
+      "NDCG@5": 0.4303,
+      "P@10": 0.4375,
+      "NDCG@10": 0.4185
+    }
+  }
+}
