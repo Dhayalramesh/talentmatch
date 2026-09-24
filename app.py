@@ -40,6 +40,7 @@ with st.sidebar:
     st.caption("All 600 resumes are synthetic. No real personal data is used.")
     st.subheader("Offline evaluation")
     metrics = pd.DataFrame(tm.cfg["metrics"]).drop(columns=["Change"]).round(3)
+    metrics.columns = ["Semantic only", "+ Re-ranker"]
     st.dataframe(metrics, width="stretch")
     st.caption(
         "16 held-out synthetic job descriptions, graded relevance labels. "
@@ -100,7 +101,8 @@ if st.session_state.get("ran"):
     for r in results:
         with st.container(border=True):
             h1, h2 = st.columns([5, 1])
-            h1.markdown(f"**#{r['rank']} {r['name']}**  \n{r['title']} · {r['years']:g} yrs · {r['resume_id']}")
+            yrs_txt = f"{r['years']:g} yr" + ("" if r["years"] == 1 else "s")
+            h1.markdown(f"**#{r['rank']} {r['name']}**  \n{r['title']} · {yrs_txt} · {r['resume_id']}")
             h2.metric("Fit", f"{r['fit']}")
             badges = [f":green-badge[{s}]" for s in r["matched"]] + [f":red-badge[missing: {s}]" for s in r["missing"]] \
                 + [f":gray-badge[+ {s}]" for s in r["bonus"]]
